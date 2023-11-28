@@ -1,5 +1,6 @@
 # Made by https://me.harshit.wtf
-# Import libraries 
+# Import libraries
+#Note : Create a file named "india_weather_data.csv" before using 
 import streamlit as st
 from imdapy import IMD
 from sklearn.ensemble import RandomForestRegressor
